@@ -255,8 +255,8 @@ form p {
   padding-bottom: 25px;
 }
 .our-creations a {
-  color: #000;
-  border: 1px solid #000;
+  color: #526d82;
+  border: 1px solid #526d82;
   text-decoration: none;
   padding: 10px 30px;
   margin-top: 25px;
@@ -486,5 +486,12 @@ footer p {
   bottom: 32px;
   pointer-events: auto;
   opacity: 1;
+}
+
+.to-top img {
+  width: 25px;
+  height: auto;
+  filter: invert(37%) sepia(64%) saturate(215%) hue-rotate(164deg)
+    brightness(94%) contrast(90%);
 }
 /* Konec Arrow Up */

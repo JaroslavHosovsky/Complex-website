@@ -1,4 +1,4 @@
-// Zvědšování obrázků
+// Zvětšování obrázků
 
 const images = document.querySelectorAll(
   "#mobile-image1, #mobile-image2, #mobile-image3, #mobile-image4, #mobile-image5, #mobile-image6, #mobile-image7, #mobile-image8, #desktop-image1, #desktop-image2, #desktop-image3, #desktop-image4, #desktop-image5, #desktop-image6, #desktop-image7, #desktop-image8"

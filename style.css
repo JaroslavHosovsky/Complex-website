@@ -469,4 +469,9 @@ footer p {
   pointer-events: auto;
   opacity: 1;
 }
+
+.to-top img {
+  width: 25px;
+  height: auto;
+}
 /* Konec Arrow Up */
